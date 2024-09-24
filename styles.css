@@ -1,0 +1,186 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+h1 {
+  font-size: 50px;
+  text-align: center;
+  font-family: cursive;
+  text-shadow: 5px 5px 5px black;
+  color: red;
+}
+
+.title {
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 25px;
+  color: maroon;
+  text-transform: capitalize;
+}
+
+.header {
+  background-color: grey;
+}
+
+.jinc {
+  font-family: cursive;
+  text-transform: capitalize;
+  text-shadow: 5px 5px 5px black;
+  color: maroon;
+}
+
+.nav-bar {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  border: 5px solid black;
+}
+
+.navbar {
+  margin-right: 20px;
+}
+
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar li {
+  margin-bottom: 10px;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+.list li {
+  display: inline;
+  margin-right: 10px;
+}
+
+.home {
+  margin-left: 50px;
+}
+
+.socials {
+  display: inline;
+  margin-left: 400px;
+}
+
+img {
+  width: 650px;
+  height: 400px;
+}
+
+.drop {
+  font-family: cursive;
+}
+
+.shop-container {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  background-color: gray;
+}
+
+.shop-text {
+  margin-left: 100px;
+  font-size: 80px;
+}
+
+.shop-btn {
+  padding: 10px;
+  background-color: black;
+  color: red;
+  cursor: pointer;
+}
+
+.welcome {
+  text-align: center;
+  border: 5px solid black;
+  padding: 5px;
+  background-color: gray;
+}
+
+.newdrop {
+  text-align: center;
+  background-color: gray;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.gallery {
+  display: inline-block;
+  border: 1px solid black;
+  /* width: 300px;
+  height: 300px; */
+  width: 300px;
+}
+
+.gallery .isco {
+  padding: 10px;
+  text-align: center;
+}
+
+.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+.neme {
+  border: 2px solid black;
+  text-align: center;
+  background-color: gray;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.j-container {
+  display: flex;
+  background-color: whitesmoke;
+}
+.more {
+  /* border: 2px solid black; */
+  display: inline-block;
+  text-align: center;
+}
+
+.mateen {
+  background-color: black;
+  color: red;
+  padding: 10px;
+  margin-top: 165px;
+  cursor: pointer;
+}
+
+.foot {
+  background-color: grey;
+  color: black;
+  text-align: center;
+  padding-top: 15px;
+  font-family: cursive;
+  font-weight: bold;
+  font-style: oblique;
+  padding-bottom: 15px;
+}
+
+.onota {
+  text-shadow: 5px 5px 5px black;
+  color: red;
+}
+.posi {
+  font-family: sans-serif;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 20px;
+}
+
+.jay {
+  background-color: black;
+  color: red;
+  padding: 10px;
+  cursor: pointer;
+}
